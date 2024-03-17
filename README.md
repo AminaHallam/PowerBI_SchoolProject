@@ -41,3 +41,10 @@ In this report, you must create the following KPIs.
 5. Present the number of secured employees per country with a bar plot.
 6. Compare open and closed breaches by country using a bar plot.
 7. Below are the pages of your report to help you to build your own power bi dashboard.
+
+
+![Capture d’écran 2024-03-17 à 12 22 49](https://github.com/AminaHallam/PowerBI_SchoolProject/assets/88747914/26f21d0e-22b7-42c3-abf7-3627b6cf5ea0)
+
+![Capture d’écran 2024-03-17 à 12 23 00](https://github.com/AminaHallam/PowerBI_SchoolProject/assets/88747914/fad326ae-57a3-4b52-ae90-e2865e8aba84)
+
+![Capture d’écran 2024-03-17 à 12 23 14](https://github.com/AminaHallam/PowerBI_SchoolProject/assets/88747914/79579758-02ee-4887-a597-5c50580237bf)
